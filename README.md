@@ -25,3 +25,33 @@ composer install
 npm install
 ```
 
+### 3. Goto DATABASE folder and zip file database these, extract and import in your local database
+
+### 4. create .env file if not exist and then copy the .env.example file all text into .env file
+
+### 5. Set up your environment and add the mail trap creadentials for text purpose getting notification
+
+### 6. Then open the terminal inside the porject or open in a editor and open terminal and run 
+
+```bash
+php artisan serve
+```
+
+### 7. Then open another terminal window and run 
+
+```bash
+npm run dev
+```
+
+### 8. Admin user who can approve the content
+```bash
+admin@gmail.com
+```
+### 9. Password for is common for all
+```bash
+12345678
+```
+
+### 10. Simple user is user@gmail.com and user2@gmail.com
+
+### 11. Serive base functionality, Yajra DataTables, Notification, Job and Command line for Scheudlar for publishing the contents are implemeted.
