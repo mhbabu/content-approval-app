@@ -47,7 +47,7 @@ npm run dev
 ```bash
 admin@gmail.com
 ```
-### 9. Password for is common for all
+### 9. Password is common for all
 ```bash
 12345678
 ```
