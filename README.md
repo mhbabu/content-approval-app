@@ -17,3 +17,9 @@ Follow these steps to set up and run the project on your local machine.
 git clone https://github.com/mhbabu/content-approval-app.git
 cd content-approval-app
 
+### 2. Run the command line
+
+```bash
+composer install
+npm install
+
